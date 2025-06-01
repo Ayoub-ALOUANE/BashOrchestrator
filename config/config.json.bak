@@ -1,0 +1,21 @@
+{
+  "scripts": [
+    {
+      "name": "test_modes.sh",
+      "description": "Script de test des trois scénarios",
+      "status": "enabled",
+      "timeout": 3600
+    }
+  ],
+  "features": {
+    "notifications": true,
+    "dependencies": true,
+    "monitoring": true
+  },
+  "settings": {
+    "max_concurrent_scripts": 3,
+    "log_retention_days": 30,
+    "notification_email": "",
+    "enable_email_notifications": false
+  }
+}

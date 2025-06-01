@@ -1,0 +1,208 @@
+2025-05-26-08-58-36 : root : ERROR : Dépendance manquante: jq
+2025-05-26-09-05-24 : root : ERROR : Dépendance manquante: jq
+2025-05-26-09-19-45 : root : ERROR : Dépendance manquante: jq
+2025-05-26-09-42-07 : root : ERROR : Dépendance manquante: jq
+2025-05-26-09-47-01 : root : ERROR : Option invalide: test.sh
+2025-05-26-09-47-41 : root : INFO : Démarrage de l'exécution de test.sh en mode: fork
+2025-05-26-09-47-43 : root : SUCCESS : Script test.sh exécuté avec succès
+2025-05-26-09-48-03 : root : INFO : Démarrage de l'exécution de test.sh en mode: thread
+2025-05-26-09-48-19 : root : SUCCESS : Script test.sh exécuté avec succès
+2025-05-26-09-48-36 : root : INFO : Démarrage de l'exécution de test.sh en mode: thread
+2025-05-26-09-48-38 : root : SUCCESS : Script test.sh exécuté avec succès
+2025-05-26-15-39-13 : root : INFO : Démarrage de l'exécution de clean.sh en mode: normal
+2025-05-26-15-39-13 : root : SUCCESS : Script clean.sh exécuté avec succès
+2025-05-26-15-41-14 : root : INFO : Démarrage de l'exécution de clean.sh en mode: normal
+2025-05-26-15-41-14 : root : SUCCESS : Script clean.sh exécuté avec succès
+2025-05-26-15-41-28 : root : INFO : Surveillance des performances activée
+2025-05-26-15-42-23 : root : INFO : Dépendance ajoutée: backup.sh dépend de clean.sh
+2025-05-26-15-43-45 : root : INFO : Exécution de la dépendance: clean.sh
+2025-05-26-15-43-45 : root : INFO : Démarrage de l'exécution de clean.sh en mode: normal
+2025-05-26-15-43-45 : root : SUCCESS : Script clean.sh exécuté avec succès
+2025-05-26-15-43-45 : root : INFO : Exécution de la dépendance: backup.sh
+2025-05-26-15-43-45 : root : INFO : Démarrage de l'exécution de backup.sh en mode: normal
+2025-05-26-15-43-45 : root : SUCCESS : Script backup.sh exécuté avec succès
+2025-05-26-15-44-28 : root : INFO : Exécution de la dépendance: clean.sh
+2025-05-26-15-44-28 : root : INFO : Démarrage de l'exécution de clean.sh en mode: normal
+2025-05-26-15-44-28 : root : SUCCESS : Script clean.sh exécuté avec succès
+2025-05-26-15-44-28 : root : INFO : Exécution de la dépendance: backup.sh
+2025-05-26-15-44-28 : root : INFO : Démarrage de l'exécution de backup.sh en mode: normal
+2025-05-26-15-44-28 : root : SUCCESS : Script backup.sh exécuté avec succès
+2025-06-01-06-21-17 : root : ERROR : Option invalide: test_modes.sh
+2025-06-01-06-23-32 : root : ERROR : Option invalide: scripts/simple_test.sh
+2025-06-01-06-24-30 : root : ERROR : Option invalide: scripts/simple_test.sh
+2025-06-01-06-43-19 : root : ERROR : Nom de script invalide: 
+2025-06-01-06-44-46 : root : INFO : Security initialized at  level
+2025-06-01-06-44-46 : root : INFO : Démarrage de l'exécution de simple_test.sh en mode: fork
+2025-06-01-06-44-48 : root : SUCCESS : Script simple_test.sh exécuté avec succès
+2025-06-01-06-44-52 : root : INFO : Security initialized at  level
+2025-06-01-06-44-52 : root : INFO : Démarrage de l'exécution de simple_test.sh en mode: thread
+2025-06-01-06-44-54 : root : SUCCESS : Script simple_test.sh exécuté avec succès
+2025-06-01-06-45-04 : root : INFO : Security initialized at  level
+2025-06-01-06-45-04 : root : INFO : Démarrage de l'exécution de simple_test.sh en mode: subshell
+2025-06-01-06-45-06 : root : SUCCESS : Script simple_test.sh exécuté avec succès
+2025-06-01-06-46-03 : root : INFO : Security initialized at  level
+2025-06-01-06-46-03 : root : INFO : Démarrage de l'exécution de simple_test.sh en mode: fork
+2025-06-01-06-46-05 : root : SUCCESS : Script simple_test.sh exécuté avec succès
+2025-06-01-06-46-38 : root : INFO : Security initialized at  level
+2025-06-01-06-46-38 : root : INFO : Démarrage de l'exécution de simple_test.sh en mode: fork
+2025-06-01-06-46-40 : root : SUCCESS : Script simple_test.sh exécuté avec succès
+2025-06-01-06-48-13 : root : INFO : Security initialized at  level
+2025-06-01-06-48-13 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: fork
+2025-06-01-06-48-18 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-06-48-30 : root : INFO : Security initialized at  level
+2025-06-01-06-48-30 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: thread
+2025-06-01-06-48-35 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-06-48-50 : root : INFO : Security initialized at  level
+2025-06-01-06-48-50 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: subshell
+2025-06-01-06-48-55 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-06-49-40 : root : INFO : Security initialized at  level
+2025-06-01-06-49-40 : root : INFO : Démarrage de l'exécution de test_combined.sh en mode: fork
+[2025-06-01 06:49:40] INFO: 
+[2025-06-01 06:49:41] INFO: Démarrage du test combiné
+[2025-06-01 06:50:04] SUCCESS: Test combiné terminé avec succès
+2025-06-01-06-50-04 : root : SUCCESS : Script test_combined.sh exécuté avec succès
+[2025-06-01 06:52:59] INFO: Test de notification
+[2025-06-01 06:53:27] INFO: Démarrage du test combiné
+[2025-06-01 06:53:53] SUCCESS: Test combiné terminé avec succès
+2025-06-01-06-55-01 : root : INFO : Security initialized at  level
+2025-06-01-06-55-01 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: fork
+2025-06-01-06-55-06 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-06-55-06 : root : INFO : Security initialized at  level
+2025-06-01-06-55-06 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: thread
+2025-06-01-06-55-11 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-06-55-12 : root : INFO : Security initialized at  level
+2025-06-01-06-55-12 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: subshell
+2025-06-01-06-55-17 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-06-55-17 : root : INFO : Security initialized at  level
+2025-06-01-06-55-17 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: fork
+2025-06-01-06-55-22 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-06-55-22 : root : INFO : Security initialized at  level
+2025-06-01-06-55-22 : root : INFO : Démarrage de l'exécution de test_medium.sh en mode: fork
+2025-06-01-06-55-40 : root : SUCCESS : Script test_medium.sh exécuté avec succès
+2025-06-01-06-55-40 : root : INFO : Security initialized at  level
+2025-06-01-06-55-40 : root : INFO : Démarrage de l'exécution de test_heavy.sh en mode: fork
+2025-06-01-06-56-25 : root : SUCCESS : Script test_heavy.sh exécuté avec succès
+2025-06-01-06-56-25 : root : INFO : Security initialized at  level
+2025-06-01-06-56-25 : root : INFO : Démarrage de l'exécution de test_medium.sh en mode: fork
+2025-06-01-06-56-43 : root : SUCCESS : Script test_medium.sh exécuté avec succès
+[2025-06-01 06:56:43] INFO: Test notification info
+[2025-06-01 06:56:43] WARNING: Test notification warning
+[2025-06-01 06:56:43] ERROR: Test notification error
+[2025-06-01 06:56:43] INFO: Démarrage du test combiné
+[2025-06-01 06:56:43] WARNING: Haute utilisation CPU:  100%
+[2025-06-01 06:57:01] SUCCESS: Test combiné terminé avec succès
+2025-06-01-07-06-06 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-06-06 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-06-06 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-06-06 : root : ERROR : Échec de la réinitialisation, tentative de restauration
+2025-06-01-07-06-06 : root : ERROR : Échec de la restauration du backup
+2025-06-01-07-06-06 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-06-06 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_medium.sh
+2025-06-01-07-06-06 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_heavy.sh
+2025-06-01-07-06-06 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/../etc/passwd
+2025-06-01-07-06-06 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/rm-rf/
+2025-06-01-07-06-07 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_medium.sh
+[2025-06-01 07:06:09] INFO: Test notification
+2025-06-01-07-06-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-06-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-06-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-06-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/nonexistent.sh
+2025-06-01-07-06-09 : root : ERROR : Option invalide: -z
+2025-06-01-07-06-09 : root : ERROR : Répertoire de log manquant
+2025-06-01-07-08-33 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-08-33 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-08-33 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-08-33 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-08-33 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_medium.sh
+2025-06-01-07-08-33 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_heavy.sh
+2025-06-01-07-08-33 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_medium.sh
+[2025-06-01 07:08:33] INFO: Test notification info
+[2025-06-01 07:08:33] WARNING: Test notification warning
+[2025-06-01 07:08:33] ERROR: Test notification error
+2025-06-01-07-15-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-15-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-15-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-15-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-15-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_medium.sh
+2025-06-01-07-15-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_heavy.sh
+2025-06-01-07-15-09 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_medium.sh
+2025-06-01-07-16-37 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_modes.sh
+2025-06-01-07-16-37 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_modes.sh
+2025-06-01-07-16-37 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_modes.sh
+2025-06-01-07-16-37 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_modes.sh
+2025-06-01-07-16-37 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_modes.sh
+2025-06-01-07-16-37 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_modes.sh
+2025-06-01-07-16-37 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_modes.sh
+2025-06-01-07-16-37 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_modes.sh
+2025-06-01-07-16-37 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/test_modes.sh
+2025-06-01-07-21-02 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-21-02 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-21-02 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-21-02 : root : SUCCESS : Paramètres réinitialisés avec succès
+2025-06-01-07-21-02 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-21-02 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_medium.sh
+2025-06-01-07-21-03 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_heavy.sh
+2025-06-01-07-21-03 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/../etc/passwd
+2025-06-01-07-21-03 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/rm-rf/
+2025-06-01-07-21-03 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_medium.sh
+[2025-06-01 07:21:05] INFO: Test notification
+2025-06-01-07-21-05 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-21-05 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-21-05 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-21-05 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/nonexistent.sh
+2025-06-01-07-21-05 : root : ERROR : Option invalide: -z
+2025-06-01-07-21-05 : root : ERROR : Répertoire de log manquant
+2025-06-01-07-22-41 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts//home/muslim/BashOrecstrator/tests/scenarios/test_light.sh
+2025-06-01-07-22-41 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts//home/muslim/BashOrecstrator/tests/scenarios/test_light.sh
+2025-06-01-07-22-41 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts//home/muslim/BashOrecstrator/tests/scenarios/test_light.sh
+2025-06-01-07-22-41 : root : SUCCESS : Paramètres réinitialisés avec succès
+2025-06-01-07-22-41 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts//home/muslim/BashOrecstrator/tests/scenarios/test_light.sh
+2025-06-01-07-22-41 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts//home/muslim/BashOrecstrator/tests/scenarios/test_medium.sh
+2025-06-01-07-22-41 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts//home/muslim/BashOrecstrator/tests/scenarios/test_heavy.sh
+2025-06-01-07-22-41 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/../etc/passwd
+2025-06-01-07-22-41 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/rm-rf/
+2025-06-01-07-22-41 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts//home/muslim/BashOrecstrator/tests/scenarios/test_medium.sh
+[2025-06-01 07:22:43] INFO: Test notification
+2025-06-01-07-22-43 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts//home/muslim/BashOrecstrator/tests/scenarios/test_light.sh
+2025-06-01-07-22-43 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts//home/muslim/BashOrecstrator/tests/scenarios/test_light.sh
+2025-06-01-07-22-43 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts//home/muslim/BashOrecstrator/tests/scenarios/test_light.sh
+2025-06-01-07-22-43 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/nonexistent.sh
+2025-06-01-07-22-43 : root : ERROR : Option invalide: -z
+2025-06-01-07-22-43 : root : ERROR : Répertoire de log manquant
+2025-06-01-07-23-24 : root : INFO : Security initialized at  level
+2025-06-01-07-23-24 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: fork
+2025-06-01-07-23-29 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-07-23-29 : root : INFO : Security initialized at  level
+2025-06-01-07-23-29 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: thread
+2025-06-01-07-23-34 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-07-23-34 : root : INFO : Security initialized at  level
+2025-06-01-07-23-34 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: subshell
+2025-06-01-07-23-39 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-07-23-40 : root : SUCCESS : Paramètres réinitialisés avec succès
+2025-06-01-07-23-40 : root : INFO : Security initialized at  level
+2025-06-01-07-23-40 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: fork
+2025-06-01-07-23-43 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-07-23-43 : root : INFO : Security initialized at  level
+2025-06-01-07-23-43 : root : INFO : Démarrage de l'exécution de test_medium.sh en mode: thread
+2025-06-01-07-24-03 : root : SUCCESS : Script test_medium.sh exécuté avec succès
+2025-06-01-07-24-03 : root : INFO : Security initialized at  level
+2025-06-01-07-24-03 : root : INFO : Démarrage de l'exécution de test_heavy.sh en mode: subshell
+2025-06-01-07-24-45 : root : SUCCESS : Script test_heavy.sh exécuté avec succès
+2025-06-01-07-24-45 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/../etc/passwd
+2025-06-01-07-24-45 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/rm-rf/
+2025-06-01-07-24-45 : root : INFO : Security initialized at  level
+2025-06-01-07-24-46 : root : INFO : Démarrage de l'exécution de test_medium.sh en mode: fork
+2025-06-01-07-25-06 : root : SUCCESS : Script test_medium.sh exécuté avec succès
+[2025-06-01 07:25:06] INFO: Test notification
+2025-06-01-07-25-06 : root : INFO : Security initialized at  level
+2025-06-01-07-25-06 : root : INFO : Security initialized at  level
+2025-06-01-07-25-06 : root : INFO : Security initialized at  level
+2025-06-01-07-25-06 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: thread
+2025-06-01-07-25-06 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: thread
+2025-06-01-07-25-06 : root : INFO : Démarrage de l'exécution de test_light.sh en mode: thread
+2025-06-01-07-25-11 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-07-25-11 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-07-25-11 : root : SUCCESS : Script test_light.sh exécuté avec succès
+2025-06-01-07-25-11 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/nonexistent.sh
+2025-06-01-07-25-11 : root : ERROR : Option invalide: -z
+2025-06-01-07-25-09 : root : ERROR : Répertoire de log manquant

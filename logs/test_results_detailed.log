@@ -1,0 +1,80 @@
+[2025-06-01 07:06:06] test_required_options: SUCCESS - Option -h : Affichage de l'aide
+[2025-06-01 07:06:06] test_required_options: FAILURE - Option -f : Mode fork
+[2025-06-01 07:06:06] test_required_options: FAILURE - Option -t : Mode thread
+[2025-06-01 07:06:06] test_required_options: FAILURE - Option -s : Mode sous-shell
+[2025-06-01 07:06:06] test_required_options: SUCCESS - Option -l : Configuration des logs (admin)
+[2025-06-01 07:06:06] test_required_options: FAILURE - Option -r : Réinitialisation (admin)
+[2025-06-01 07:06:06] test_scenarios: FAILURE - Scénario léger
+[2025-06-01 07:06:06] test_scenarios: FAILURE - Scénario moyen
+[2025-06-01 07:06:06] test_scenarios: FAILURE - Scénario lourd
+[2025-06-01 07:06:06] test_security: SUCCESS - Contrôle des privilèges admin
+[2025-06-01 07:06:06] test_security: SUCCESS - Validation des chemins
+[2025-06-01 07:06:06] test_security: SUCCESS - Protection contre les commandes dangereuses
+[2025-06-01 07:06:09] test_added_features: FAILURE - Monitoring - Statut
+[2025-06-01 07:06:09] test_added_features: FAILURE - Monitoring - Statistiques
+[2025-06-01 07:06:09] test_added_features: SUCCESS - Système de notification
+[2025-06-01 07:06:09] test_added_features: SUCCESS - Génération de rapports
+[2025-06-01 07:06:09] test_performance: SUCCESS - Performance en parallèle (durée: 0s)
+[2025-06-01 07:06:09] test_error_handling: SUCCESS - Gestion script inexistant
+[2025-06-01 07:06:09] test_error_handling: SUCCESS - Gestion option invalide
+[2025-06-01 07:06:09] test_error_handling: SUCCESS - Gestion paramètres manquants
+[2025-06-01 07:21:02] test_required_options: SUCCESS - Option -h : Affichage de l'aide
+[2025-06-01 07:21:02] test_required_options: FAILURE - Option -f : Mode fork
+[2025-06-01 07:21:02] test_required_options: FAILURE - Option -t : Mode thread
+[2025-06-01 07:21:02] test_required_options: FAILURE - Option -s : Mode sous-shell
+[2025-06-01 07:21:02] test_required_options: SUCCESS - Option -l : Configuration des logs (admin)
+[2025-06-01 07:21:02] test_required_options: SUCCESS - Option -r : Réinitialisation (admin)
+[2025-06-01 07:21:02] test_scenarios: FAILURE - Scénario léger
+[2025-06-01 07:21:03] test_scenarios: FAILURE - Scénario moyen
+[2025-06-01 07:21:03] test_scenarios: FAILURE - Scénario lourd
+[2025-06-01 07:21:03] test_security: SUCCESS - Contrôle des privilèges admin
+[2025-06-01 07:21:03] test_security: SUCCESS - Validation des chemins
+[2025-06-01 07:21:03] test_security: SUCCESS - Protection contre les commandes dangereuses
+[2025-06-01 07:21:05] test_added_features: FAILURE - Monitoring - Statut
+[2025-06-01 07:21:05] test_added_features: FAILURE - Monitoring - Statistiques
+[2025-06-01 07:21:05] test_added_features: SUCCESS - Système de notification
+[2025-06-01 07:21:05] test_added_features: SUCCESS - Génération de rapports
+[2025-06-01 07:21:05] test_performance: SUCCESS - Performance en parallèle (durée: 0s)
+[2025-06-01 07:21:05] test_error_handling: SUCCESS - Gestion script inexistant
+[2025-06-01 07:21:05] test_error_handling: SUCCESS - Gestion option invalide
+[2025-06-01 07:21:05] test_error_handling: SUCCESS - Gestion paramètres manquants
+[2025-06-01 07:22:40] test_required_options: SUCCESS - Option -h : Affichage de l'aide
+[2025-06-01 07:22:41] test_required_options: FAILURE - Option -f : Mode fork
+[2025-06-01 07:22:41] test_required_options: FAILURE - Option -t : Mode thread
+[2025-06-01 07:22:41] test_required_options: FAILURE - Option -s : Mode sous-shell
+[2025-06-01 07:22:41] test_required_options: SUCCESS - Option -l : Configuration des logs (admin)
+[2025-06-01 07:22:41] test_required_options: SUCCESS - Option -r : Réinitialisation (admin)
+[2025-06-01 07:22:41] test_scenarios: FAILURE - Scénario léger
+[2025-06-01 07:22:41] test_scenarios: FAILURE - Scénario moyen
+[2025-06-01 07:22:41] test_scenarios: FAILURE - Scénario lourd
+[2025-06-01 07:22:41] test_security: SUCCESS - Contrôle des privilèges admin
+[2025-06-01 07:22:41] test_security: SUCCESS - Validation des chemins
+[2025-06-01 07:22:41] test_security: SUCCESS - Protection contre les commandes dangereuses
+[2025-06-01 07:22:43] test_added_features: FAILURE - Monitoring - Statut
+[2025-06-01 07:22:43] test_added_features: FAILURE - Monitoring - Statistiques
+[2025-06-01 07:22:43] test_added_features: SUCCESS - Système de notification
+[2025-06-01 07:22:43] test_added_features: SUCCESS - Génération de rapports
+[2025-06-01 07:22:43] test_performance: SUCCESS - Performance en parallèle (durée: 0s)
+[2025-06-01 07:22:43] test_error_handling: SUCCESS - Gestion script inexistant
+[2025-06-01 07:22:43] test_error_handling: SUCCESS - Gestion option invalide
+[2025-06-01 07:22:43] test_error_handling: SUCCESS - Gestion paramètres manquants
+[2025-06-01 07:23:24] test_required_options: SUCCESS - Option -h : Affichage de l'aide
+[2025-06-01 07:23:29] test_required_options: SUCCESS - Option -f : Mode fork
+[2025-06-01 07:23:34] test_required_options: SUCCESS - Option -t : Mode thread
+[2025-06-01 07:23:39] test_required_options: SUCCESS - Option -s : Mode sous-shell
+[2025-06-01 07:23:40] test_required_options: SUCCESS - Option -l : Configuration des logs (admin)
+[2025-06-01 07:23:40] test_required_options: SUCCESS - Option -r : Réinitialisation (admin)
+[2025-06-01 07:23:43] test_scenarios: SUCCESS - Scénario léger
+[2025-06-01 07:24:03] test_scenarios: SUCCESS - Scénario moyen
+[2025-06-01 07:24:45] test_scenarios: SUCCESS - Scénario lourd
+[2025-06-01 07:24:45] test_security: SUCCESS - Contrôle des privilèges admin
+[2025-06-01 07:24:45] test_security: SUCCESS - Validation des chemins
+[2025-06-01 07:24:45] test_security: SUCCESS - Protection contre les commandes dangereuses
+[2025-06-01 07:24:47] test_added_features: SUCCESS - Monitoring - Statut
+[2025-06-01 07:24:47] test_added_features: SUCCESS - Monitoring - Statistiques
+[2025-06-01 07:25:06] test_added_features: SUCCESS - Système de notification
+[2025-06-01 07:25:06] test_added_features: SUCCESS - Génération de rapports
+[2025-06-01 07:25:11] test_performance: SUCCESS - Performance en parallèle (durée: 5s)
+[2025-06-01 07:25:11] test_error_handling: SUCCESS - Gestion script inexistant
+[2025-06-01 07:25:11] test_error_handling: SUCCESS - Gestion option invalide
+[2025-06-01 07:25:09] test_error_handling: SUCCESS - Gestion paramètres manquants

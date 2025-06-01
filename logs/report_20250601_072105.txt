@@ -1,0 +1,18 @@
+=== Rapport d'Exécution ===
+Date: Sun Jun  1 07:21:05 +01 2025
+Script: test_light.sh
+---
+Dernières entrées de log:
+2025-06-01-07-21-02 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-21-02 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/tests/scenarios/test_light.sh
+2025-06-01-07-21-02 : root : SUCCESS : Paramètres réinitialisés avec succès
+2025-06-01-07-21-02 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_light.sh
+2025-06-01-07-21-02 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_medium.sh
+2025-06-01-07-21-03 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_heavy.sh
+2025-06-01-07-21-03 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/../etc/passwd
+2025-06-01-07-21-03 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/rm-rf/
+2025-06-01-07-21-03 : root : ERROR : Chemin de script invalide: /home/muslim/BashOrecstrator/scripts/scenarios/test_medium.sh
+[2025-06-01 07:21:05] INFO: Test notification
+---
+État actuel:
+root       40547  0.0  0.0   4756  3328 pts/4    S+   07:21   0:00 /bin/bash /home/muslim/BashOrecstrator/scripts/report.sh test_light.sh
